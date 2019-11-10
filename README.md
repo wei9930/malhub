@@ -6,7 +6,7 @@
 - 我们不生产代码，
 - 所有代码都是从日常工作中收集的！！！
 
-## WARNING !!!
+## WARNING 警告
 - All of code in this project are malicious,
 - Do not run them in your PC or server!!!
 - 所有的代码都是恶意的，
